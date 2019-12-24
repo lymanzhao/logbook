@@ -1,0 +1,3 @@
+pip install psycopg2 -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+python -m pwiz -e postgresql -H 192.168.88.888 -p 5432 -u postgres -P sthpw >sthpwmodel.py
