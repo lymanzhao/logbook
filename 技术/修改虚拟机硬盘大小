@@ -1,0 +1,4 @@
+修改虚拟机硬盘大小
+
+C:\Users\zhaoyunlai>"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" modifyhd
+ D:\VM\dwnew\dwnew.vdi --resize 60000
